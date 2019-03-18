@@ -1,4 +1,4 @@
-package com.springboot.listener;
+package com.springboot.listener.observer;
 
 import com.springboot.listener.bean.UserBean;
 import lombok.Getter;
